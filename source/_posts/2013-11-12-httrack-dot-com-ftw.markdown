@@ -6,7 +6,7 @@ comments: true
 categories: tools tips reading internet
 ---
 
-I don't remember how I learned about [Anil Dash](dashes.com), but I did and I was struck with the anecdote about why and how he started writing which apparently came out of a period of uncertainty. Uncertainty of what to do next, where to go. More on the relevance of that later. Since then I've wanted to back read his blog, but how does one go about getting all that content? I didn't want to be restricted to reading it on iPadita's data connection and Anil isn't/wasn't using a static site generator so downloading the repo was out of question. 
+I don't remember how I learned about [Anil Dash](http://dashes.com), but I did and I was struck with the anecdote about why and how he started writing which apparently came out of a period of uncertainty. Uncertainty of what to do next, where to go. More on the relevance of that later. Since then I've wanted to back read his blog, but how does one go about getting all that content? I didn't want to be restricted to reading it on iPadita's data connection and Anil isn't/wasn't using a static site generator so downloading the repo was out of question. 
 
 Enter [HTTrack](http://www.httrack.com/), a free, relatively easy to use utility for scraping the web. "*It allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer. HTTrack arranges the original site's relative link-structure*"
 
@@ -16,4 +16,4 @@ For more details on the options you can pass, [start here](http://www.httrack.co
 
 Happy Reading!
 
-NB: Thanks to http://www.labnol.org/internet/save-webpages-for-offline-reading/ for writing about it and [this query](https://www.google.com/search?q=httrack&oq=httrack&aqs=chrome..69i57.1307j0j1&sourceid=chrome&ie=UTF-8#q=scrap%20blog%20site%20content%20to%20read%20later) for returning Amit's site. 
+NB: This blog(http://www.labnol.org/internet/save-webpages-for-offline-reading/) lead me to HTTrack from [this query](https://www.google.com/search?q=httrack&oq=httrack&aqs=chrome..69i57.1307j0j1&sourceid=chrome&ie=UTF-8#q=scrap%20blog%20site%20content%20to%20read%20later).
