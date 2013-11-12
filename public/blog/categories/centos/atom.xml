@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: centos | Claudina Sarahe's online log]]></title>
+  <link href="http://itsmisscs.me/blog/categories/centos/atom.xml" rel="self"/>
+  <link href="http://itsmisscs.me/"/>
+  <updated>2013-11-12T18:41:43-05:00</updated>
+  <id>http://itsmisscs.me/</id>
+  <author>
+    <name><![CDATA[Claudina Sarahe]]></name>
+    <email><![CDATA[its@misscs.me]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Very yummy Vagrant CentOS6.3 box]]></title>
+    <link href="http://itsmisscs.me/blog/2013/01/08/very-yummy-vagrant-centos6-dot-3-box/"/>
+    <updated>2013-01-08T20:15:00-05:00</updated>
+    <id>http://itsmisscs.me/blog/2013/01/08/very-yummy-vagrant-centos6-dot-3-box</id>
+    <content type="html"><![CDATA[<p>Vagrantbox.es is a great resource for finding a base Vagrant box but many are out of date...mainly because the repo is 21 pull requests behind. So you can likely find more up to date box in the pull requests.</p>
+
+<p>Not to defy convention, but since those pull requests are being ignored, here's a link to a updated minimal CentOS 6.3 x86_64 box. It does not have any VirtualBox Guest Additions installed. I recommend using https://github.com/dotless-de/vagrant-vbguest it will save you a lot of headache and guess work. It doesn't have Chef or Puppet. It does include the necessary packages to fasciliate installing Postgres on CentOS box</p>
+
+<pre><code>yum install postgresql-devel
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
