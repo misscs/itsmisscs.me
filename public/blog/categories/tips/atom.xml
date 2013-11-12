@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tips | Claudina Sarahe's online log]]></title>
   <link href="http://itsmisscs.me/blog/categories/tips/atom.xml" rel="self"/>
   <link href="http://itsmisscs.me/"/>
-  <updated>2013-11-12T18:48:54-05:00</updated>
+  <updated>2013-11-12T18:50:57-05:00</updated>
   <id>http://itsmisscs.me/</id>
   <author>
     <name><![CDATA[Claudina Sarahe]]></name>
@@ -18,7 +18,7 @@
     <link href="http://itsmisscs.me/blog/2013/11/12/httrack-dot-com-ftw/"/>
     <updated>2013-11-12T18:18:00-05:00</updated>
     <id>http://itsmisscs.me/blog/2013/11/12/httrack-dot-com-ftw</id>
-    <content type="html"><![CDATA[<p>I don't remember how I learned about <a href="dashes.com">Anil Dash</a>, but I did and I was struck with the anecdote about why and how he started writing which apparently came out of a period of uncertainty. Uncertainty of what to do next, where to go. More on the relevance of that later. Since then I've wanted to back read his blog, but how does one go about getting all that content? I didn't want to be restricted to reading it on iPadita's data connection and Anil isn't/wasn't using a static site generator so downloading the repo was out of question.</p>
+    <content type="html"><![CDATA[<p>I don't remember how I learned about <a href="http://dashes.com">Anil Dash</a>, but I did and I was struck with the anecdote about why and how he started writing which apparently came out of a period of uncertainty. Uncertainty of what to do next, where to go. More on the relevance of that later. Since then I've wanted to back read his blog, but how does one go about getting all that content? I didn't want to be restricted to reading it on iPadita's data connection and Anil isn't/wasn't using a static site generator so downloading the repo was out of question.</p>
 
 <p>Enter <a href="http://www.httrack.com/">HTTrack</a>, a free, relatively easy to use utility for scraping the web. "<em>It allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer. HTTrack arranges the original site's relative link-structure</em>"</p>
 
@@ -28,7 +28,7 @@
 
 <p>Happy Reading!</p>
 
-<p>NB: Thanks to http://www.labnol.org/internet/save-webpages-for-offline-reading/ for writing about it and <a href="https://www.google.com/search?q=httrack&amp;oq=httrack&amp;aqs=chrome..69i57.1307j0j1&amp;sourceid=chrome&amp;ie=UTF-8#q=scrap%20blog%20site%20content%20to%20read%20later">this query</a> for returning Amit's site.</p>
+<p>NB: This blog(http://www.labnol.org/internet/save-webpages-for-offline-reading/) lead me to HTTrack from <a href="https://www.google.com/search?q=httrack&amp;oq=httrack&amp;aqs=chrome..69i57.1307j0j1&amp;sourceid=chrome&amp;ie=UTF-8#q=scrap%20blog%20site%20content%20to%20read%20later">this query</a>.</p>
 ]]></content>
   </entry>
   
