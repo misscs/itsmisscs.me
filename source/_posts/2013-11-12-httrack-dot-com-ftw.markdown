@@ -16,4 +16,4 @@ For more details on the options you can pass, [start here](http://www.httrack.co
 
 Happy Reading!
 
-NB: This blog(http://www.labnol.org/internet/save-webpages-for-offline-reading/) lead me to HTTrack from [this query](https://www.google.com/search?q=httrack&oq=httrack&aqs=chrome..69i57.1307j0j1&sourceid=chrome&ie=UTF-8#q=scrap%20blog%20site%20content%20to%20read%20later).
+NB: [This blog post](http://www.labnol.org/internet/save-webpages-for-offline-reading/) lead me to HTTrack from [this query](https://www.google.com/search?q=httrack&oq=httrack&aqs=chrome..69i57.1307j0j1&sourceid=chrome&ie=UTF-8#q=scrap%20blog%20site%20content%20to%20read%20later).
